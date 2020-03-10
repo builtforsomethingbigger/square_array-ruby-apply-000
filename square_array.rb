@@ -4,5 +4,5 @@ def square_array(array)
     squared = squared ** 2 #set new element to the squared version of itself
     new_array << squared #shovel the new element into the empty array
   end
-  new_array
+  new_array #print the new array with squared element
 end
